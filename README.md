@@ -11,3 +11,6 @@ Türkçe Kotlin Kaynağı || Created by me ||
 ### ArrayList
 ### Set 
 ### Map
+### If-else
+
+### When
