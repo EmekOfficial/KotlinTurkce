@@ -1,6 +1,6 @@
 # KotlinTurkce
 Türkçe Kotlin Kaynağı || Created by me ||
-
+## Değişkenler
 ### Int
 ### Long
 ### Float
